@@ -1,7 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Clément Uster
+description: "Hi! My name is Clément Uster, I'm a software engineer, focused on web development. I mainly use javascript, java and ruby. The purpose of this blog is to share some tests and thoughts about programming."
 baseurl: ""
 url: "http://yourdomain.com"
 
